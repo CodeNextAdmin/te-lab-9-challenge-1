@@ -1,7 +1,7 @@
-TEAM Edge chanllenge
+Team Edge challenge
 =================
 
-Use this file to teach about paragraph tags if needed
+Use this file to learn about paragraph tags
  
 -------------------
 
